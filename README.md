@@ -1,5 +1,5 @@
 # Hackathon2K18 :octocat:
-Deep Learning- Implement neural network (CNN) which enable BRGM to predict natural disasters from twitter images.<br> Use PCA and clustering methods to distinguish pertinent images
+Deep Learning- Implement neural network (CNN) which enable BRGM to predict natural disasters from twitter images.<br> Use PCA and clustering methods to distinguish pertinent images <br> 48 hours competition
 <p align="center">
   <img src="https://github.com/wlambert01/Hackathon2K18/blob/master/docs/DL.gif" title="Neural Networks">
 </p>
