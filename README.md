@@ -6,9 +6,9 @@ Deep Learning- Implement neural network (CNN) which enable BRGM to predict natur
 
 ### Clustering overview :
 <p align="center">
-  <img src="https://github.com/wlambert01/Hackathon2K18/blob/master/Cluster2.png" title="Cluster1">
+  <img src="https://github.com/wlambert01/Hackathon2K18/blob/master/docs/Cluster2.png" title="Cluster1">
 </p>
 <p align="center">
-  <img src="https://github.com/wlambert01/Hackathon2K18/blob/master/Cluster1.png" title="Cluster1">
+  <img src="https://github.com/wlambert01/Hackathon2K18/blob/master/docs/Cluster1.png" title="Cluster1">
 </p>
 
