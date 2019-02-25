@@ -4,7 +4,7 @@ Deep Learning- Implement neural network (CNN) which enable BRGM to predict natur
   <img src="https://github.com/wlambert01/Hackathon2K18/blob/master/docs/DL.gif" title="Neural Networks">
 </p>
 
-# Results overview
+### Results overview :
 <p align="center">
   <img src="https://github.com/wlambert01/Hackathon2K18/blob/master/Cluster2.png" title="Cluster1">
 </p>
