@@ -1,5 +1,5 @@
 # :octocat: Hackathon 2018: One day competition organised by EY :octocat:
-Deep Learning- Implement neural network (CNN) which enable BRGM to predict natural disasters from twitter images.<br> Use PCA and clustering methods to distinguish pertinent images <br> 
+Deep Learning- Predict natural disasters from twitter images.<br> Use CNNs, PCA and clustering methods to distinguish pertinent images <br> 
 <p align="center">
   <img src="https://github.com/wlambert01/Hackathon2K18/blob/master/docs/DL.gif" title="Neural Networks">
 </p>
